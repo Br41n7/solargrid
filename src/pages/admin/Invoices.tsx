@@ -29,7 +29,7 @@ export default function AdminInvoices() {
   const generatePDF = (invoice: Invoice) => {
     const doc = new jsPDF() as any;
     doc.setFontSize(20);
-    doc.text('SolaceGrid Engineering Ltd', 105, 20, { align: 'center' });
+    doc.text('Breadith Engineering Ltd', 105, 20, { align: 'center' });
     doc.setFontSize(10);
     doc.text('45, Adebayo St. Ado-ekiti, Ekiti-state', 105, 26, { align: 'center' });
     
