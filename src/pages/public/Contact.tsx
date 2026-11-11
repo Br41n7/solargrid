@@ -72,8 +72,8 @@ export default function Contact() {
                   </div>
                   <div>
                     <h4 className="font-bold text-blue-950 mb-1">Email</h4>
-                    <p className="text-gray-600 text-sm">info@solacegrid.com</p>
-                    <p className="text-gray-600 text-sm">support@solacegrid.com</p>
+                    <p className="text-gray-600 text-sm">info@breadith.com</p>
+                    <p className="text-gray-600 text-sm">support@breadith.com</p>
                   </div>
                 </div>
               </div>
@@ -157,7 +157,7 @@ export default function Contact() {
       {/* Map Section */}
       <section className="h-[450px] bg-gray-200 relative overflow-hidden">
         <iframe 
-          title="SolaceGrid Office Location"
+          title="Breadith Office Location"
           src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.567890123456!2d5.210987!3d7.621098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zN8KwMzcnMTYuMCJOIDXCsDEyJzM5LjYiRQ!5e0!3m2!1sen!2sng!4v1620000000000!5m2!1sen!2sng" 
           width="100%" 
           height="100%" 
