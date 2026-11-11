@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="space-y-6">
           <div className="flex items-center space-x-2">
             <HardHat className="h-8 w-8 text-orange-500" />
-            <span className="text-xl font-bold tracking-tight">SolaceGrid <span className="text-orange-500">Engineering</span></span>
+            <span className="text-xl font-bold tracking-tight">Breadith <span className="text-orange-500">Engineering</span></span>
           </div>
           <p className="text-blue-100 text-sm leading-relaxed">
             Delivering excellence through integrated engineering and technical solutions. We are committed to precision, innovation, and reliability in every project.
@@ -60,14 +60,14 @@ export default function Footer() {
             </li>
             <li className="flex items-center space-x-3">
               <Mail className="h-5 w-5 text-orange-500 shrink-0" />
-              <span>info@solacegrid.com</span>
+              <span>info@breadith.com</span>
             </li>
           </ul>
         </div>
       </div>
       
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mt-16 pt-8 border-t border-blue-900 text-center text-xs text-blue-300">
-        <p>&copy; {new Date().getFullYear()} SolaceGrid Engineering Ltd. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Breadith Engineering Ltd. All rights reserved.</p>
       </div>
     </footer>
   );
