@@ -66,7 +66,7 @@ export default function RequestQuote() {
           </div>
           <h2 className="text-3xl font-bold text-blue-950 mb-4">Request Received!</h2>
           <p className="text-gray-600 mb-8">
-            Thank you for reaching out to SolaceGrid Engineering. Our technical team will review your requirements and contact you within 24-48 hours.
+            Thank you for reaching out to Breadith Engineering. Our technical team will review your requirements and contact you within 24-48 hours.
           </p>
           <button 
             onClick={() => setSubmitted(false)}
@@ -96,7 +96,7 @@ export default function RequestQuote() {
             {/* Info Sidebar */}
             <div className="bg-blue-900 p-12 text-white space-y-12">
               <div>
-                <h3 className="text-2xl font-bold mb-6">Why SolaceGrid?</h3>
+                <h3 className="text-2xl font-bold mb-6">Why Breadith?</h3>
                 <ul className="space-y-6">
                   <li className="flex items-start space-x-4">
                     <CheckCircle className="h-6 w-6 text-orange-500 shrink-0" />
@@ -116,7 +116,7 @@ export default function RequestQuote() {
               <div className="pt-8 border-t border-blue-800">
                 <p className="text-blue-300 text-xs uppercase tracking-widest font-bold mb-4">Need Immediate Help?</p>
                 <p className="text-xl font-bold">+234 800 123 4567</p>
-                <p className="text-blue-200">support@solacegrid.com</p>
+                <p className="text-blue-200">support@breadith.com</p>
               </div>
             </div>
 
