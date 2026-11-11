@@ -148,7 +148,7 @@ export default function Careers() {
                     <CheckCircle className="h-10 w-10 text-green-600" />
                   </div>
                   <h4 className="text-2xl font-bold text-blue-950">Application Submitted!</h4>
-                  <p className="text-gray-600">Thank you for your interest in SolaceGrid. Our HR team will review your application and contact you if your profile matches our needs.</p>
+                  <p className="text-gray-600">Thank you for your interest in Breadith. Our HR team will review your application and contact you if your profile matches our needs.</p>
                   <button onClick={() => { setSelectedJob(null); setSubmitted(false); }} className="bg-blue-800 text-white px-8 py-3 rounded-md font-bold">Close</button>
                 </div>
               ) : (
