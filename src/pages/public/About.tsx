@@ -15,7 +15,7 @@ export default function About() {
           />
         </div>
         <div className="relative z-10 max-w-4xl mx-auto px-4">
-          <h1 className="text-4xl md:text-6xl font-bold mb-6">About SolaceGrid</h1>
+          <h1 className="text-4xl md:text-6xl font-bold mb-6">About Breadith</h1>
           <p className="text-xl text-blue-100 font-light">
             A premier engineering firm dedicated to delivering integrated technical solutions across Africa.
           </p>
