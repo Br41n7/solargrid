@@ -49,7 +49,7 @@ export default function AdminLogin({ onLogin }: LoginProps) {
             <HardHat className="h-8 w-8 text-orange-500" />
           </div>
           <h1 className="text-2xl font-bold">Admin Portal</h1>
-          <p className="text-blue-200 text-sm mt-2">SolaceGrid Engineering Ltd</p>
+          <p className="text-blue-200 text-sm mt-2">Breadith Engineering Ltd</p>
         </div>
         
         <form onSubmit={handleSubmit} className="p-8 space-y-6">
