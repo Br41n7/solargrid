@@ -84,7 +84,7 @@ export default function Home() {
             <h2 className="text-orange-500 font-bold tracking-widest uppercase text-sm mb-4">Why Choose Us</h2>
             <h3 className="text-4xl font-bold mb-8">Committed to Excellence and Innovation</h3>
             <p className="text-blue-100 text-lg mb-10 leading-relaxed">
-              SolaceGrid Engineering Ltd stands at the forefront of technical innovation. We combine years of experience with modern engineering practices to deliver results that exceed expectations.
+              Breadith Engineering Ltd stands at the forefront of technical innovation. We combine years of experience with modern engineering practices to deliver results that exceed expectations.
             </p>
             
             <div className="space-y-6">
