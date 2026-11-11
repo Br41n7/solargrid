@@ -24,7 +24,7 @@ export default function Navbar() {
             <Link to="/" className="flex items-center space-x-2">
               <HardHat className="h-10 w-10 text-blue-800" />
               <div>
-                <span className="text-2xl font-bold text-blue-900 block leading-none">SolaceGrid</span>
+                <span className="text-2xl font-bold text-blue-900 block leading-none">Breadith</span>
                 <span className="text-[10px] uppercase tracking-widest text-orange-600 font-semibold">Engineering Ltd</span>
               </div>
             </Link>
